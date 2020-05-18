@@ -1,4 +1,4 @@
-package com.dz.wjdz.Tool;
+package com.dz.wjdz.tool;
 
 import org.springframework.util.StringUtils;
 
